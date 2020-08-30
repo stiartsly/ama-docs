@@ -181,9 +181,13 @@ Feeds Project
 
 *We know there is a long way off for Feeds dApp project, and we will surely dedicate ourselves to keeping improvements for better experience.*
 
-**我们殷切期望社区人员能够积极参与使用Feeds，欢迎能够通过这里的几个渠道积极反馈合理的意见和建议。**  谢谢大家
+
+
+**我们殷切期望社区人员能够积极参与使用Feeds，欢迎能够通过这里的几个渠道积极反馈合理的意见和建议。**
 
 *We sincerely hope that community enthusiasts can actively engage in this dApp,  and welcome to feedback any opinions and suggestions via specific channels here.*
+
+
 
 **谢谢大家**
 
