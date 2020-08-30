@@ -4,8 +4,8 @@ Feeds Project
 ## Page1 
 ### Introduction
 
-**大家好，我是汤智龙，目前是Feeds dApp项目的产品负责人。**
-*Hi everyone, I’m Zhilong Tang and I’m currently the product leader of the Feeds dApp project.*
+**大家好，我是XXX，目前是Feeds dApp项目的产品负责人。**
+*Hi everyone, I’m XXX and I’m currently the product leader of the Feeds dApp project.*
 
 
 ## Page2
@@ -15,33 +15,35 @@ Feeds Project
 
 *In brief , Feeds dApp is a decentralised social platform application where user remain in full control of their own data.*
 
-**我们在启动开发这款去中心化应用时，主要有两个初衷：**
+**当初我们在立项启动开发这款去中心化应用时，主要有两个初衷：**
 
 *When we decided to launch the project of this decentralised application, there are two main purposes in there:*
 
-- **一旦 elastOS运行时平台应用成功发布給社区后，就会需要有一款以流量导向为主的应用来吸引和引导对elastOS的使用；**
+- **当 elastOS应用成功发布給社区后，就会需要有一款以流量导向为主的应用来吸引和引导社区人员使用elastOS；**
 
-*Once elastOS runtime is successfully released to the community, a traffic-oriented application would be needed to promote the use of elastOS.*
+*Once elastOS runtime is successfully released to the community, a traffic-oriented application would be required to attract full engagement of using elastOS from community.*
 
-- ** 在使用亦来云的基础服务上，探索一种新型的去中心化应用和服务模式。**
+- **在使用亦来云的基础服务上，探索一种新型的去中心化应用和服务模式。**
 
-*And meanwhile, we have spirit to explore a new style of decentralized services or application while using the infrastructure services of Elastos.* 
+*And meanwhile, we have spirit to explore a new style of decentralised application or services with fully support of the infrastructure services of Elastos.* 
 
-**希望Feeds dApp能够很好实现这两个项目初衷，同时也是立身践行 “You Own Your Data”的亦来云项目宗旨。这其中就需要亦来云社区爱好者的参与和支持.**
+**希望Feeds dApp能够持续践行和实现这两个项目初衷，同时也是立身践行 “You Own Your Data”的亦来云项目宗旨, 这其中就需要亦来云社区爱好者的参与和支持.**
 
-*Therefore, we hope Feeds dApp will accomplish these two original purposes well, and also keep the spirit of “You own your data” in practice, which requires the engagment and support efforts from Elastos community.*
+*Therefore, we hope Feeds dApp will accomplish these two original purposes well, and also keep the spirit of “You own your data” in the practice, which requires the engagement and support efforts from Elastos community.*
+
+.
 
 ### Feeds Update （Feeds现状）
 
-**Feeds dApp以技术预览版形式于今年8月中旬完成初始版本发布。至现在为止，已经迭代了一个BugFix版本和一个新特性版本。**
+**Feeds dApp以技术预览版形式已于今年8月中旬完成初始版本发布。至现在为止，已经迭代了一个BugFix版本和一个新特性版本。**
 
-*The initial release of technical preview version of Feeds dApp was just completed in mid-August.  And so far,  a new bugfix version and a new feature version were released successively.*
+*The initial release of technical preview version of Feeds dApp was just completed in mid-August.  And so far,  a new bug-fix version and a new feature version were released successively.*
 
 ### What's next 
 
-**Feeds开发团队将继续致力于feeds dApp用户体验的持续提升，以及同时不断集成更多的社交新特性。同时也在考虑在Feeds dApp中引入经济激励模型，引导更多的用户参与度。**
+**Feeds开发团队将继续致力于dApp用户体验的持续提升，以及同时不断集成更多的社交新特性。同时也在考虑在Feeds dApp中引入经济激励模型，引导更多的 社区用户参与度。**
 
-*Feeds team will keep commit ourselves to improvements on user experience of this dApp, and integration of new essential social features. Meanwhile, it is also considering to introduce an economic incentive model  to attract more engagement from community.*
+*Feeds team will keep commit ourselves to improvements on user experience of this dApp, and integration of new essential social features. Meanwhile, it is also considering to introduce an economic incentive model to attract more engagement from community.*
 
 
 
@@ -52,17 +54,17 @@ Feeds Project
 
 *Compared with traditional social application such Twitter and Weibo, Feeds dApp has the following most essential traits:*
 
-- **使用去中心化ID身份验证登录后台服务。传统的社交应用使用中心化的用户账号系统或者第三方OAuth方式进行认证和授权。这种传统的用户身份认证方式不仅无法保证对自己账号的控制，也不能避免潜在的单点登录服务失败的问题**
+- **使用去中心化ID身份验证登录后台服务。传统的社交应用使用中心化的用户账号系统或者第三方OAuth方式进行用户认证和授权。基于这种传统的用户身份认证方式不仅无法保证用户对自己账号信息的控制，也无法避免潜在的单点服务登录失败的问题**
   
-  *Feeds dApp use Elastos DID (Decentralised ID) to get sign-in to background services. While to traditional social application,  they use the centralised account system or 3rd-party OAuth framework for authentication and authorisation, in which, not only it can not be guaranteed the full control of user's own credential, but also make it impossible to void the potential failure of single sign-on service.*
+  *Feeds dApp use Elastos DID (Decentralised ID) to get sign-in to backend services. While to traditional social application,  they use the centralised account system or 3rd-party OAuth framework for authentication and authorisation, in which, not only it can not be guaranteed the full control of user's own credential, but also make it impossible to void the potential failure of single sign-on service.*
 
 - **由于Feeds服务的去中心化运作，从前端用户角度来看，拥有对不同后台服务访问选择权，这样有益于服务内容的多样化**. 
 
-  *With the decentralisation of Feeds services,  users have freedom of choices to get access for more different Feeds services, which is beneficial to the diversity of service contents.*
+  *With the decentralisation of Feeds services,  user has freedom of choices to get access for more different Feeds services, which would be beneficial to the diversity of service contents.*
 
 - **由于Feeds服务的去中心化运作，表明Feeds 服务可以由任何人进行运营，并为用户提供对自己数据的完全控制权。**
 
-  *With the decentralisation of Feeds service, it shows that the Feeds service can be run by anyone and provide them the full control of their own data.*
+  *With the decentralisation of Feeds service, it shows that the Feeds service can be run by anyone and guarantee them with the full control of their own data.*
 
   
 
@@ -71,25 +73,25 @@ Feeds Project
 
 *In terms of services content, Feeds dApp is actually similar to Twitter and Weibo.*
 
-**Feeds中如果用户对某个Feed感兴趣，则需要用户先登录该Feeds所在的Feeds Service，然后再关注对应的Feeds，进而阅读Feeds里面的系列微说，回复自己的微评。**
+**Feeds中如果用户对某个Feed感兴趣，则需要用户先登录该Feeds所在的Feeds Service，然后再关注对应的Feeds，进而阅读Feeds里面的系列微说，基于微说回复一些评注。**
 
-*Once a user becomes interested in a certain feed, he need to get himself signed-in with DID to Feeds service where the feed would be located. Then he can read the series of posts in this feed after following it, where he also can reply with comments on those posts.*
+*Once a user becomes interested in a certain feed, he need to get himself signed-in with DID to Feeds backend service where the feed would be located. Then he can read the series of posts in this feed after following it, where he also can reply with comments on those posts.*
 
 **从这几个图你可以看到，我们关注了几个Feeds，而这些Feeds都在不同的Feeds 服务节点上。目前这些Feeds服务节点由不同的团队或者个人根据自己兴趣进行运行和管理。**
 
-*In these figures, we have followed several Feeds, whereas these Feeds are located on different Feeds services, which currently are run and managed by certain teams and individuals according to their own interests.*
+*On these figures, we have followed several Feeds, whereas these Feeds are located on different Feeds services, which currently are run and managed by certain teams and individuals according to their own interests.*
 
 
 
 ## Page4
 
-**目前Feeds Service已经支持运行在 macOS，Ubuntu Linux，Debian Linux 以及Raspberry设备上。**
+**目前Feeds Service已经支持运行在 macOS，Ubuntu/Debian Linux, 以及Raspberry设备上。**
 
-*Currently, Feeds service could be run on macOS, Ubuntu Linux, Debian Linux and Raspberry devices.*
+*Currently, Feeds service can be run on macOS, Ubuntu Linux, Debian Linux and Raspberry devices etc.*
 
-**社区人员可以从[trinity-tech](https://www.trinity-tech.io/feeds.html)网站获取基于Linux平台的Debian安装包，也可以从[github.com](https://github.com/elastos-trinity/feeds-service/releases/tag/release-v1.1.0) 项目仓库发布包中下载。后续也会正式推出macOS上的Feeds Service应用安装包。**
+**社区人员可以从[trinity-tech](https://www.trinity-tech.io/feeds.html)网站获取基于Linux平台的Debian安装包，也可以从[github.com](https://github.com/elastos-trinity/feeds-service/releases/tag/release-v1.1.0) 项目仓库发布包中下载。后续也会正式推出macOS上的Feeds Service应用包。**
 
-Community enthusiasts can obtain the Debian installation packages from [trinity-tech.io](https://www.trinity-tech.io/feeds.html) website, or from repository on [GitHub.com](https:/ /github.com/elastos-trinity/feeds-service/releases/tag/release-v1.1.0).  Feeds service package running on macOS is in the to-do list now.
+*Community enthusiasts can obtain the Debian installation packages from website link [trinity-tech.io](https://www.trinity-tech.io/feeds.html), or from repository on [github.com](https:/ /github.com/elastos-trinity/feeds-service/releases/tag/release-v1.1.0).  Feeds service package running on macOS is in the to-do list now.*
 
 
 
@@ -101,12 +103,25 @@ Community enthusiasts can obtain the Debian installation packages from [trinity-
 
 *Feeds basic feature*
 
-- 用户（可以是个人或者机构组织）只能在自己运营的Feeds中发布微说；
-- 用户可以阅读已关注Feeds中的微说和评论，同时可基于微说发表评论；
-- 用户可以自动收到通知，--
-- 支持扫描二维码分享Feeds服务；
-- 通过ELA钱包打赏Feeds内容
-- 
+- **用户（可以是个人或者机构组织）只能在自己运营的Feeds中发布微说;**
+
+*User (can be individual or organisation ) can only make posts in the feeds he created;*
+
+- **用户可以阅读已关注的Feeds中的微说和评论，同时就微说发表一些评论；**
+
+*User can read posts and comments in the feed being followed, and also can make comments on specific posts in that feed;*
+
+- **用户可以自动收到通知，让你知晓有哪些用户关注了你运营的Feeds，点赞了你发布的微说，或者在你的微说上留下了评注。**
+
+*User can automatically receive notifications to let you be aware of events like who followed your feeds, who just liked your posts, and who left comments on your posts etc.*
+
+- **支持扫描二维码分享Feeds服务；**
+
+*Support to share Feeds service via it's address QRCode.*
+
+- **通过ELA钱包打赏你喜欢的Feed**
+
+*Support to tip for your favourite Feed*s
 
 ## Page6
 
