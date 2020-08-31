@@ -41,7 +41,7 @@ Feeds Project
 
 ### What's next 
 
-**Feeds开发团队将继续致力于dApp用户体验的持续提升，以及同时不断集成更多的社交新特性。同时也在考虑在Feeds dApp中引入经济激励模型，引导更多的 社区用户参与度。**
+**Feeds开发团队将继续致力于dApp用户体验的持续提升，以及同时不断集成更多的社交新特性。同时也在考虑在Feeds dApp中引入经济激励模型，从而激励更多的优质内容，并通过内容吸引更多的用户。**
 
 *Feeds team will keep commit ourselves to improvements on user experience of this dApp, and integration of new essential social features. Meanwhile, it is also considering to introduce an economic incentive model to attract more engagement from community.*
 
@@ -62,14 +62,14 @@ Feeds Project
 
   *With the decentralisation of Feeds services,  user has freedom of choices to get access for more different Feeds services, which would be beneficial to the diversity of service contents.*
 
-- **由于Feeds服务的去中心化运作，表明Feeds 服务可以由任何人进行运营，并为用户提供对自己数据的完全控制权。**
+- **由于Feeds服务的去中心化运作，Feeds 服务可以由任何人进行运营，并为用户提供对自己数据的完全控制权。**
 
   *With the decentralisation of Feeds service, it shows that the Feeds service can be run by anyone and guarantee them with the full control of their own data.*
 
   
 
 ## Page3
-**在内容运营上，Feeds dApp 其实跟Twitter， 微博等比较类似。**
+**在~~内容运营~~用户体验上，Feeds dApp 其实跟Twitter， 微博等比较类似。**
 
 *In terms of services content, Feeds dApp is actually similar to Twitter and Weibo.*
 
@@ -85,11 +85,11 @@ Feeds Project
 
 ## Page4
 
-**目前Feeds Service已经支持运行在 macOS，Ubuntu/Debian Linux, 以及Raspberry设备上。**
+**目前Feeds Service已经支持Ubuntu/Debian Linux,  macOS等平台，可以运行在VPS，Raspberry Pi以及桌面设备上。**
 
 *Currently, Feeds service can be run on macOS, Ubuntu Linux, Debian Linux and Raspberry devices etc.*
 
-**社区人员可以从[trinity-tech](https://www.trinity-tech.io/feeds.html)网站获取基于Linux平台的Debian安装包，也可以从[github.com](https://github.com/elastos-trinity/feeds-service/releases/tag/release-v1.1.0) 项目仓库发布包中下载。后续也会正式推出macOS上的Feeds Service应用包。**
+**用户可以从[trinity-tech](https://www.trinity-tech.io/feeds.html)网站获取基于Linux平台的Debian安装包，也可以从[github.com](https://github.com/elastos-trinity/feeds-service/releases/tag/release-v1.1.0) 项目仓库发布包中下载。后续也会正式推出macOS上的Feeds Service应用包。**
 
 *Community enthusiasts can obtain the Debian installation packages from website link [trinity-tech.io](https://www.trinity-tech.io/feeds.html), or from repository on [github.com](https:/ /github.com/elastos-trinity/feeds-service/releases/tag/release-v1.1.0).  Feeds service package running on macOS is in the to-do list now.*
 
@@ -135,11 +135,11 @@ Feeds Project
 
 *Support more ways to share Feeds service. In addition to providing main sharing ways via 3rd-party applications,  you can also share Feeds service via elastOS. And also support for direct recommendation and sharing for Feed itself;*
 
-- **支持私密Feeds运营。私密Feeds开始时可能对用户不可见，可直接通过朋友推荐请求关注，而且只有Feeds运营者同意下才允许被关注；**
+- **支持私密Feeds。私密Feeds开始时可能对用户不可见，可直接通过朋友推荐请求关注，而且只有Feeds的所有者同意下才允许被关注；**
 
 *Support private feeds, where private feeds may not be visible to users, and only could be followed with the approval of feeds owner via friend's recommendation;*
 
-- **支持付费Feeds运营。付费Feeds只有在用户在完成付费的情况下才能加入该Feeds。一般情况下，这些付费Feeds能给用户提供有价值的创新内容；**
+- **支持付费Feeds。付费Feeds只有在用户在完成付费的情况下才能加入该Feeds。一般情况下，这些付费Feeds能给用户提供有价值的创新内容；**
 
 *Support paid feeds, where paid feeds could only be followed when user completes the payment. In general, paid feeds could provide followers with valuable and innovative knowledge;*
 
@@ -147,7 +147,7 @@ Feeds Project
 
 *Support more forms of rich media contents, like multiple pictures in the form of Jiugongge, short video etc.*
 
-- **在Feeds dApp生态中引入经济激励机制，例如基于亦来云ETH侧链的ERC20 Token，通过Token奖励吸引更多用户的参与度，从而提升用户流量。**
+- **在Feeds dApp生态中引入经济激励机制，例如基于亦来云ETH侧链的ERC20 Token，通过Token奖励吸引更多用户的参与度，从而提升内容品质以及用户流量。**
 
 *Plan to introduce economic incentive model into feeds dApp, such as to integrate ERC20 token using ETH side chain, to attract more engagements from community with rewards, thereby increasing traffic of this dApp;*
 
@@ -165,13 +165,9 @@ Feeds Project
 
 *Continue to deliver new versions of Feeds capsule with integration of upcoming  features and bug-fixes for Android elastOS on bi-weekly basis;*
 
-- **一旦Android elastOS支持为原生应用提供基于Elastos服务的Intent调用能力后，Feeds dApp也可支持成为Android平台H5原生应用。预定于今年年底提供；**
+- **一旦elastOS工具链支持将elastOS dApps打包成为移动平台原生应用，同时elastOS运行时提供原生应用支持后，Feeds dApp也将提供Android和iOS的原生应用。这依赖于elastOS的相关工作进展，预定于今年年底提供。**
 
 *Once Android elastOS supports with essential capabilities for native applications on intent invocations of Elastos infrastructure services, Feeds dApp can also be a HTML5-based application on Android platform, which would be slated on Dec. 2020 for the first release;*
-
-- **一旦iOS elastOS支持为原生应用提供基于Elastos服务的Intent调用能力后，Feeds dApp也可成为iOS平台H5原生应用。预定于今年年底提供;**
-
-*Once iOS elastOS supports with essential capabilities for native applications on intent invocations of Elastos infrastructure services, Feeds dApp can also be a HTML5-based application on iOS platform, which would also be slated on Dec. 2020 for the first release.*
 
 
 
@@ -183,7 +179,7 @@ Feeds Project
 
 
 
-**我们殷切期望社区人员能够积极参与使用Feeds，欢迎能够通过这里的几个渠道积极反馈合理的意见和建议。**
+**我们期望后续发布的Feeds能够带来更多有趣的特性，吸引更多的优质内容、更多的用户流量，让Feeds的内容和用户生态持续发展。也非常感谢社区人员对Feeds的支持，欢迎大家通过这里的几个渠道给Feeds提供改进建议。**
 
 *We sincerely hope that community enthusiasts can actively engage in this dApp,  and welcome to feedback any opinions and suggestions via specific channels here.*
 
