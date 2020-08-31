@@ -4,14 +4,12 @@ Feeds Project
 ## Page1 
 ### Introduction
 
-**大家好，我是XXX，目前是Feeds dApp项目的产品负责人。**
+**大家好，我是XXX，目前是Feeds dApp项目负责人。**
 *Hi everyone, I’m XXX and I’m currently the project lead of the Feeds Capsule.*
 
 
 
-**非常感谢大家观看这个视频。**
-
-*Thank you for watching this video*.
+**很高兴能从通过这个视频机会向大家展现Feeds项目现状和后续计划。**
 
 
 
@@ -55,14 +53,14 @@ Feeds Project
 
 
 
-## Page2
+## Page3
 ### Defining Traits of Feeds
 
 **与传统的社交应用（如Twitter和微博）相比，Feeds dApp具有以下最基本的特征**
 
 *Compared with traditional social application such Twitter and Weibo, Feeds Capsule has the following most essential traits:*
 
-- **使用去中心化ID身份验证登录后台服务。传统的社交应用使用中心化的用户账号系统或者第三方OAuth方式进行用户认证和授权。基于这种传统的用户身份认证方式不仅无法保证用户对自己账号信息的控制，也无法避免潜在的单点服务登录失败的问题**
+- **使用去中心化ID身份验证登录后台服务。传统的社交应用使用中心化的用户账号系统或者第三方OAuth方式进行用户认证和授权。基于这种传统的用户身份认证方式不仅无法保证用户对自己账号信息的控制，也无法避免潜在的单点服务登录失败的问题；**
   
   *Feeds Capsule use Elastos DID (Decentralised ID) to sign-in and access backend services. In comparison, for traditional social application,  they use the centralised account system or 3rd-party OAuth framework for authentication and authorisation, in which, not only it can not be guaranteed the full control of user's own credential, but also make it impossible to avoid the potential failure of single sign-on service.*
 
@@ -76,22 +74,22 @@ Feeds Project
 
   
 
-## Page3
+## Page4
 **在用户体验上，Feeds dApp 其实跟Twitter， 微博等比较类似。**
 
 *In terms of the services and the user experience, Feeds Capsule is actually similar to Twitter and Weibo.*
 
-**Feeds中如果用户对某个Feed感兴趣，则需要用户先登录该Feeds所在的Feeds Service，然后再关注对应的Feeds，进而阅读Feeds里面的系列微说，基于微说回复一些评注。**
+**如果用户对某个Feed感兴趣，则需要先登录该Feeds所在的Feeds服务，然后再关注对应的Feed，进而阅读Feed里面的系列微说，基于微说回复一些评论。**
 
 *Once a user becomes interested in a certain feed, he can sign in with Elastos DID to Feeds backend service where the feed would be located. Then he can read the series of posts in this feed after following it, where he also can reply with comments on those posts.*
 
-**从这几个图你可以看到，我们关注了几个Feeds，而这些Feeds在各自不同的Feeds 服务节点上。目前这些Feeds服务节点由不同的团队或者个人根据自己兴趣进行运行和管理。**
+**从这几个图你可以看到，我们关注了几个Feeds，而这些Feeds在各自不同的Feeds 服务节点上。目前这些Feeds服务节点由不同的团队和个人根据自己兴趣进行运行和管理的。**
 
 *On these figures, we have followed several Feeds, whereas these Feeds are located on different Feeds services, which currently are operated and managed by specific teams and individuals according to their own interests.*
 
 
 
-## Page4
+## Page5
 
 **目前Feeds Service已经支持Ubuntu/Debian Linux,  macOS等平台，可以运行在VPS，Raspberry Pi以及桌面设备上。**
 
@@ -103,7 +101,7 @@ Feeds Project
 
 
 
-## Page5
+## Page6
 
 ### Feeds Update
 
@@ -111,7 +109,7 @@ Feeds Project
 
 *Basic feature of Feeds Capsule*
 
-- **用户（可以是个人或者机构组织）只能在自己运营的Feeds中发布微说;**
+- **用户可以但只能在自己的Feeds中发布微说;**
 
 *User (can be individual or organisation ) can only make posts in the feeds he created;*
 
@@ -119,11 +117,11 @@ Feeds Project
 
 *User can read posts and comments in the feed being followed, and also can make comments on specific posts in that feed;*
 
-- **用户可以自动收到通知，让你知晓有哪些用户关注了你运营的Feeds，点赞了你发布的微说，或者在你的微说上留下了评注。**
+- **用户可以自动收到通知，让你知道有哪些用户关注了你的Feeds，点赞了你发布的微说，或者在你的微说上留下了评论。**
 
 *User can automatically receive notifications which inform you of who followed your feeds, who just liked your posts, and who left comments on your posts etc.*
 
-- **支持扫描二维码分享Feeds服务；**
+- **支持扫描二维码方式分享Feeds服务；**
 
 *Users can share Feeds service via it's address QRCode.*
 
@@ -131,7 +129,9 @@ Feeds Project
 
 *Users can tip for your favourite feeds*
 
-## Page6
+
+
+## Page7
 
 ### What's next
 
@@ -165,7 +165,7 @@ Feeds Project
 
 
 
-## Page7
+## Page8
 
 ### Roadmap - 路线图
 
@@ -179,7 +179,7 @@ Feeds Project
 
 
 
-## Page 8
+## Page 9
 
 **Feeds dApp项目虽道长路阻，但我们会持续优化和改进用户体验。**
 
