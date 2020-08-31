@@ -27,9 +27,9 @@ Feeds Project
 
 *When we decided to launch the development of this decentralised application, there are two main purposes in there:*
 
-- **当 elastOS应用成功发布給社区后，就会需要有一款以流量导向为主的应用来吸引和引导社区人员使用elastOS；**
+- **当 elastOS应用成功发布給社区后，就会需要有一款以内容与流量导向为主的应用来吸引和引导社区人员使用elastOS；**
 
-*Once elastOS is successfully released to the community, a traffic-oriented application would be necessary to attract users to onboard elastOS.*
+*Once elastOS is successfully released to the community, a content-and-traffic-oriented application would be necessary to attract users to onboard elastOS.*
 
 - **在使用亦来云基础服务之上，探索一种新型的去中心化应用和服务模式。**
 
