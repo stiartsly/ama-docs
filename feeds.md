@@ -145,7 +145,7 @@ Feeds Project
 
 *Support more forms of rich media contents,  such as pictures of Jiugongge, instant short videos, etc.*
 
-- **规划在Feeds dApp生态中引入经济激励机制，例如基于亦来云ETH侧链的ERC20 Token，通过Token奖励吸引更多用户的参与度，从而提升内容品质以及增加用户流量。**
+- **规划在Feeds生态中引入经济激励机制，例如基于亦来云ETH侧链的ERC20 Token，通过Token奖励吸引更多用户的参与度，从而提升内容品质以及增加用户流量。**
 
 *We plan to introduce economic incentive model into Feeds Capsule, such as to integrate ERC20 token on ETH side-chain, to attract more engagement from community users with rewards, thereby to promote quality of content and increase traffic as well;*
 
@@ -159,15 +159,15 @@ Feeds Project
 
 ***关于Feeds项目的路线：***
 
+*About Feeds Capsule roadmap:*
 
-
-- **我们基于Android elastOS 持续发布 Feeds dApp胶囊程序。计划每两周定期发布一次新功能集成和问题修复版本；**
+- **持续基于Android elastOS 发布 Feeds Capsule程序。计划每两周定期发布一次新功能集成和问题修复版本；**
 
 *Continue to deliver new versions of Feeds Capsule with integration of upcoming  features and bug-fixes for Android elastOS on bi-weekly basis;*
 
-- **一旦elastOS工具链支持将elastOS dApps打包成为移动平台原生应用，同时elastOS运行时提供原生应用支持后，Feeds dApp也将提供Android和iOS的原生应用。这依赖于elastOS的相关工作进展，预定于今年年底提供。**
+- **一旦elastOS工具链支持将elastOS Capusle打包成为移动平台原生应用，同时elastOS Runtime提供原生应用服务支持后，Feeds Capsule也将提供Android和iOS的原生应用版本。这依赖于elastOS的相关工作进展，预定于今年年底提供初版**
 
-*Once elastOS toolchain supported packaging capsules as native applications on Android/iOS platforms, and also provided with native application support for dApps, Feeds dApp will provide native application, whic depends on the progress of elastOS, and would be slated on Dec. 2020 for this first release.*
+*Once elastOS toolchain supported packaging capsules as native applications on Android/iOS platforms, and also provided with native application support for capsules, Feeds Capsule will provide native application, which depends on the progress of elastOS, and would be slated on Dec. 2020 for this first release.*
 
 
 
@@ -177,19 +177,13 @@ Feeds Project
 
 *We know there is a long way off for Feeds Capsule project, and we will surely dedicate ourselves to keeping improvements for better experience.*
 
-
-
-我们期望后续发布的Feeds Capsule能够带来更多有趣的特性，吸引更多的优质内容、更多的用户流量，让Feeds的内容和用户生态持续发展。**
+**我们期望后续发布的Feeds Capsule能够带来更多有趣的特性，吸引更多的优质内容、更多的用户流量，让Feeds的内容和用户生态持续发展。**
 
 *We sincerely hope that subsequent releases of Feeds would bring more interesting features to you,  then can attract higher quality content and more traffic, therefore the ecology of contents and users continue to develop.*
 
-
-
-**这里也借这个机会非常感谢社区人员对Feeds的关注和支持，也欢迎大家通过这里的几个渠道给Feeds提供改进意见和建议。**
+**这里也借这个机会非常感谢社区人员对Feeds的关注和支持，也欢迎大家通过这里的几个渠道给Feeds提供宝贵意见和建议。**
 
 *We highly appreciate the full support from community users, and welcome to feedback your any opinions and suggestions for improvement on Feeds via the channels here.*
-
-
 
 **再一次感谢大家观看这个视频，谢谢大家**。
 
