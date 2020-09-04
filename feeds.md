@@ -7,7 +7,7 @@ Feeds Project
 
 **很高兴能从通过这个视频机会向大家展现Feeds项目的当前现状和后续计划。**
 
-
+**I'm very happy here to show you the current status and follow-up plans of the Feeds Capsule project in this video*
 
 
 ## Page2
@@ -56,7 +56,7 @@ Feeds Project
 
 - **Feeds使用去中心化ID身份登录后台服务。传统的社交应用使用中心化的用户账号系统或者第三方OAuth方式进行用户认证和授权。基于传统的用户身份认证方式不仅无法保证用户对自己账户私密信息的控制，也无法避免潜在的单点服务登录失败的问题；**
   
-  *Feeds Capsule use Elastos DID (Decentralised ID) to sign-in and access backend services. In comparison, for traditional social application,  they use the centralised account system or 3rd-party OAuth framework for authentication and authorisation, in which, not only it can not be guaranteed the full control of user's own credential, but also make it impossible to avoid the potential failure of single sign-on service.*
+  *Feeds Capsule uses Elastos DID (Decentralised ID) to sign-in and access backend services. In comparison, for traditional social application,  they use the centralised account system or 3rd-party OAuth framework for authentication and authorisation, in which, not only it can not be guaranteed the full control of user's own credential, but also make it impossible to avoid the potential failure of single sign-on service.*
 
 - **其次，由于Feeds服务的去中心化，从前端用户角度来看，拥有了对不同后台服务访问的选择权，这样有益于服务内容的多样化**
 
@@ -71,7 +71,7 @@ Feeds Project
 ## Page4
 **在用户体验上，Feeds Capsule 其实跟Twitter， 微博等比较类似。**
 
-*In terms of the services and the user experience, Feeds Capsule is actually similar to Twitter and Weibo.*
+*In terms of the user experience, Feeds Capsule is actually similar to Twitter and Weibo.*
 
 **在Feeds Capsule，如果用户对某个Feed感兴趣，则需要先登录该Feeds所在的Feeds服务，然后再关注对应的Feed，进而阅读Feed里面的系列微说，基于微说进行一些回复评论。**
 
@@ -98,6 +98,8 @@ Feeds Project
 ## Page6
 
 **这里简要说明一下Feeds Capsule当前主要特性**
+
+*Here is a brief talk about the current main features of Feeds Capsule*
 
 *Basic feature of Feeds Capsule*
 
