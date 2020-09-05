@@ -43,16 +43,16 @@ Elastos Carrier Project
 *In terms of implementation and user experience,  Elastos Carrier has the following most essential traits or advantages:*
 
 - **Carrier网络完全是去中心化的通信网络，每个节点都是Carrier网络中的同等节点。因此不会出现所谓的某个节点失效，导致整个网络失效的问题；**
-*Carrier network is a completely decentralised communication network, and each node is a peer node in there. Therefore, the inaccessible failure of certain nodes will not cause any inaccessible failures of the entire Carrier network.*
+*Carrier network is a completely decentralised communication network, and each node is a peer node in there. Therefore, the inaccessible failure of certain nodes will not cause any inaccessible failure of the entire Carrier network.*
 
 - **Carrier网络是一个自治的网络，任何运行Carrier SDK的应用都可以加入成为网络中的节点，也可以随时离开网络；**
-Carrier network is also an autonomous network,  which means that any application running with Carrier SDK can join in the network as a Carrier node and leave the network at any time without any censorship from central authority.
+*Carrier network is also an autonomous network,  which means that any application running with Carrier SDK can join in the network as a Carrier node and leave the network at any time without any censorship from central authority.*
 
 - **Carrier网络中数据通信必须基于好友之间进行，并且好友间的数据通信完全是安全可靠的端对端加密的。基本不可能出现中间人攻击导致通信数据泄密的问题；**
-The data communication in the Carrier network would carry out between friends and should be completely secure due to end-to-end encryption.  It is basically impossible for a man-in-the-middle attack for decryption that cause the leakage of communication data.
+*The data communication in the Carrier network would carry out between friends and should be completely secure due to end-to-end encryption.  It is basically impossible for a man-in-the-middle attack for decryption that causes the leakage of communication data.*
 
 - **Carrier网络中的节点可以是NAT-穿透的。也就是说，即使两个通信节点在不同的局域网环境里，比如使用手机基于办公室的网络通过Carrier可以正常访问到家里局域网的设备。**
-*The nodes in the Carrier network can be NAT-penetrating.  In other words, even if the two Carrier nodes are sitting in different LANs. For example, you can use a mobile phone under office LAN to access the services or devices behind your home LAN.*
+*The nodes in the Carrier network can be NAT-penetrating.  In other words, even if the two Carrier nodes are sitting in different LANs. For example, you can use a mobile phone with office LAN to access the services or devices behind your home LAN.*
 
 ## Page4
 
@@ -60,12 +60,12 @@ The data communication in the Carrier network would carry out between friends an
 *Now, there are various featured applications using Carrier SDK and Elastos Carrier network, such as Elastos' flagship application elastOS,  Hyper IM application,  Hyper Connect IoT solution, and Feeds Capsule.*
 
 **我们可以从社区人员维护的网站 [peerjet.](http://peerjet.com)net 了解目前网络中Carrier节点在世界各地的活动区域和节点数。在准备这个视频时，能够检索到约20多万个活动节点。**
-*You can learn about the approximate number count of active carrier nodes and active areas in the Carrier network around the world from the website [peerjet.net](http://peerjet.net) maintained by the community. At the time of preparing this video,  there are more than 200,000 active nodes running as a whole of the Carrier network.*
+*You can learn about the approximate count of active carrier nodes and active areas in the Carrier network around the world from the website [peerjet.net](http://peerjet.net) maintained by the community. At the time of preparing this video,  there are more than 200,000 active nodes running as a whole of the Carrier network.*
 
 ## Page5
 
-**至今为止，我们已经向社区发布了多个官方支持的Carrier SDKs的平台版本，包括Android Java，iOS/macOS Swift,  原生 C/C++ SDKs，以及基于elastOS Runtime的javascript/typescript SDKs。**
-S*o far, we have released a series of Carrier SDKs for various platforms, such as Native C/C++ SDKs for native systems, Java SDKs for Android platform,  Swift SDKs for iOS/macOS platforms,  and Javascript/Typescript SDKs based on elastOS Runtime.*
+**至今为止，我们已经向社区发布了多个官方支持的Carrier SDKs的平台版本，包括Android Java，iOS/macOS Swift,  原生 C/C++ SDK，以及基于elastOS Runtime的javascript/typescript SDK。**
+S*o far, we have released a series of Carrier SDKs for various platforms, such as Native C/C++ SDK for native systems, Java SDK for Android platform,  Swift SDK for iOS/macOS platforms,  and Javascript/Typescript SDK based on elastOS Runtime.*
 
 **目前Carrier SDK已经支持在Android/iOS移动平台，macOS/Linux/Windows等桌面平台，以及Raspberry Pi设备上运行。**
 *So, now Carrier SDK supports mainstream mobile platforms of Android/iOS, desktop systems of macOS/Linux/Windows, and Raspberry Pi devices etc.*
@@ -76,30 +76,30 @@ S*o far, we have released a series of Carrier SDKs for various platforms, such a
 *Here I will briefly explain the main feature currently provided by the Carrier SDKs:*
 
 - **支持相互加好友，以及好友之间的消息通信；**
-*Supported with adding friends with carrier address and messaging each other between friends.*
+*Supported adding friends with carrier addresses and messaging each other between friends.*
 
 - **临时的离线消息支持，目前暂时采用中心化消息存储的临时方案；**
-*Supported with the interim offline message storage mechanism involved with central server;*
+*Supported the interim offline message storage mechanism involved with central server;*
 
 - **去中心化的群组支持；所谓去中心化群组表明没有中心化的群主角色，也不会出现被踢出群组。**
-*Supported with decentralised groups without management of members, which means nobody could be the group owner, and nobody can kick any others out the group.*
+*Supported decentralised groups without management of members, which means nobody could be the group owner, and nobody can kick any others out the group.*
 
 - **基于Session/Stream连接的数据通信，以及之上的多路复用支持；**
-*Supported with end-to-end data communication based on Session/Stream connection, and multiplexing on top of Session/Stream.*
+*Supported end-to-end data communication based on Session/Stream connection, and multiplexing on top of Session/Stream.*
 
 - **服务访问点的端口转发功能。比如本来只允许局域网内设备访问的服务入口直接支持为可通过公网访问的代理服务入口;**
-*Supported with port forwarding for service access portal. For example,  the service portal that originally only allowed accesses from same LAN can be accessed from pubic network or even other LAN.*
+*Supported port forwarding for service access portal. For example,  the service portal that originally only allowed accesses from same LAN can be accessed from pubic network or even other LAN.*
 
 - **Pull模式的文件传输，支持断点续传功能;**
-*Supported with file transfer in pull mode, which supports to resume transferring from breakpoint;*
+*Supported file transfer in pull mode, which supports to resume transferring from breakpoint;*
 
 - **基于Carrier 之上的WebRTC，支持最基本的音视频通信功能；**
-*Provided with WebRTC SDKs over Carrier SDKs, and supported the essential Audio/Video communication.*
+*Provided WebRTC SDKs over Carrier SDKs, and supported the essential Audio/Video communication.*
 
 ## Page7
 
 **我们后续除了继续维护和稳定目前已有的SDK基本特性之外，同时也在孵化和实现Carrier中不足甚至是缺失的部分：**
-*We will continue to maintain and improve the existing basic features of Carrier SDK,  in the other side, we are also incubating and implementing the absent parts of Carrier network:*
+*We will continue to maintain and improve the existing basic features of Carrier SDKs,  in the other side, we are also incubating and implementing the absent parts of Carrier network:*
 
 - **基于Hive++ 节点服务之上实现离线消息存储机制；**
 *A technical preview version of offline message storage mechanism based on Hive++ node is being undertaken now.*
@@ -113,30 +113,30 @@ S*o far, we have released a series of Carrier SDKs for various platforms, such a
 ## Page8
 
 **我们除了正常维护和问题修复的版本发布外，还会计划发布基于以下特性的预览版或者PoC（概念验证）版本：**
-*In addition to the regular releases based improvements and bug-fixes for Carrier SDKs, we will plan to release the versions of  technical preview or PoC (Proof of Concept) quality for the following features:*
+*In addition to the regular releases based improvements and bug-fixes for Carrier SDKs, we will plan to release the technical preview or PoC (Proof of Concept) versions for the following features:*
 
 - **关于Group群组的离线消息存储机制。目前已经基于Hive++服务节点方案尝试实现，预计于今年九月底发布第一个技术预览版；**
 *About the offline message storage mechanism for Carrier group, it has been implementing based on Hive++ Node solution, and the first technical preview version will be released at the end of Dec. this year*
 
-- **我们大概会于十月发布基于Carrier SDKs的WebRTC SDKs技术预览版本，支持最基本的音视频通信功能；**
-*We will publicly release a technical version of WebRTC SDKs over Carrier SDKs in Oct, which will support the essential Audio/Video communication as well as data communication.*
+- **我们大概会于十月发布支持Android/iOS移动平台的，基于Carrier SDKs之上的WebRTC SDKs技术预览版本，支持最基本的音视频通信功能；**
+*We will publicly release a technical version of WebRTC SDKs over Carrier SDKs for Android/iOS platforms in Oct, which will support the essential Audio/Video communication as well as data communication.*
 
 - **对于可管理的Group群组，尝试在今年底发布一个PoC（概念验证）版本。**
-*As to the solution of central manageable Group, we have plan to deliver a PoC version at  end of this year.*
+*As to the solution of central manageable Group, we have plans to deliver a PoC version at the end of this year.*
 
 ## Page9
 
 **Elastos Carrier 作为Elastos生态中最基础和重要的服务之一，我们深感职责重大。**
-*Elastos Carrier as one of the most essential and important infrastractures in the Elastos ecosystem, we deeply feel the responsibility.*
+*As Elastos Carrier is one of the most essential and important infrastractures in the Elastos ecosystem, we deeply feel the responsibility.*
 
 **我们会持续不断稳定和改进Carrier SDKs，同时也会尽心研究和实现目前作为通信平台缺失的部分。**
 *We will continue to stabilise and improve the Carrier SDKs,  and at the same time, we will take our best efforts to make research and implement the absent parts of Carrier as communication platform.*
 
 **在这里，借此机会感谢Elastos项目成立以来社区人员给予的关注和大力支持。**
-*Here, I would like to take this opportunity to thank the community for your cares and support since the start of the Elastos project.*
+*Hereby, I would like to take this opportunity to thank the community for your cares and support since the start of the Elastos project.*
 
 **希望社区人员能够加入Carrier Telegram群组中来，尽心参与讨论和提供更多关于Carrier的宝贵意见和建议。**
-*I also hope that the community members can join the Telegram group of Elastos Carrier,  and would put forward your valuable opinions and suggestion about Carrier .*
+*I also hope that the community members can join the Telegram group of Elastos Carrier,  and would put forward your valuable opinions and suggestion about Carrier there.*
 
 **再一次感谢大家观看这个视频，谢谢大家。**
 *Thank you again for watching this video, thank you all.*
